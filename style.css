@@ -171,7 +171,6 @@ section h2 {
 .search-box {
     position: relative;
     max-width: 500px;
-    
     margin: 0 auto 3rem;
 }
 
@@ -218,7 +217,6 @@ section h2 {
     box-shadow: 0 10px 25px rgba(0,0,0,0.15);
 }
 
-/* NOVO: Estilo para a imagem da redação */
 .imagem-redacao {
     height: 200px;
     overflow: hidden;
@@ -258,7 +256,6 @@ section h2 {
     min-height: 60px;
 }
 
-/* NOVO: Estilo para os botões */
 .botoes-redacao {
     display: flex;
     gap: 10px;
@@ -285,14 +282,6 @@ section h2 {
 .btn:hover {
     background: #2980b9;
     transform: translateY(-2px);
-}
-
-.btn-download {
-    background: var(--accent);
-}
-
-.btn-download:hover {
-    background: #c0392b;
 }
 
 /* Sobre Section */
@@ -505,7 +494,6 @@ section h2 {
         justify-content: center;
     }
 
-    /* Responsivo para a nova seção Sobre */
     .destaques {
         grid-template-columns: 1fr;
         gap: 1.5rem;

@@ -1,20 +1,20 @@
-// Dados das redações - VERSÃO CORRIGIDA
+// Dados das redações - NOMES SEM ESPAÇOS
 const redacoes = [
-    { id: 1, titulo: "Redação 1 - Por que procedimentos estéticos estão aumentando entre os jovens", descricao: "O início da minha jornada na escrita", arquivo: "imagens/redacao%201.jpg", imagem: "imagens/redacao%201.jpg" },
-    { id: 2, titulo: "Redação 2 - Acessibilidade e inclusão de pessoas com deficiência no Brasil", descricao: "Desenvolvendo o pensamento crítico", arquivo: "imagens/redacao%202.jpg", imagem: "imagens/redacao%202.jpg" },
-    { id: 3, titulo: "Redação 3 - Principais fatores que influenciam na qualidade de vida e no bem-estar da população", descricao: "Aprendendo a defender minhas ideias", arquivo: "imagens/redacao%203.jpg", imagem: "imagens/redacao%203.jpg" },
-    { id: 4, titulo: "Redação 4 - As mudanças climáticas no Brasil e seus desafios", descricao: "Ampliando meus horizontes literários", arquivo: "imagens/redacao%204.jpg", imagem: "imagens/redacao%204.jpg" },
-    { id: 5, titulo: "Redação 5 - As consequências do descarte de lixo eletrônico", descricao: "Descobrindo a força da linguagem", arquivo: "imagens/redacao%205.jpg", imagem: "imagens/redacao%205.jpg" },
-    { id: 6, titulo: "Redação 6 - O consumo de ultraprocessados e suas consequências para a saúde", descricao: "Reflexões sobre minha evolução", arquivo: "imagens/redacao%206.jpg", imagem: "imagens/redacao%206.jpg" },
-    { id: 7, titulo: "Redação 7 - Fatores e efeitos da dependência em jogos de aposta", descricao: "Lidando com temas complexos", arquivo: "imagens/redacao%207.jpg", imagem: "imagens/redacao%207.jpg" },
-    { id: 8, titulo: "Redação 8 - A importância do trabalho voluntário no combate à desigualdade social", descricao: "Relacionando leituras e vivências", arquivo: "imagens/redacao%208.jpg", imagem: "imagens/redacao%208.jpg" },
-    { id: 9, titulo: "Redação 9 - Adultização Infantil – Consequências da perda irreparável da Infância", descricao: "Desenvolvendo meu estilo único", arquivo: "imagens/redacao%209.jpg", imagem: "imagens/redacao%209.jpg" },
-    { id: 10, titulo: "Redação 10 - Caminhos para combater o etarismo nas relações sociais", descricao: "Abordando questões existenciais", arquivo: "imagens/redacao%2010.jpg", imagem: "imagens/redacao%2010.jpg" },
-    { id: 11, titulo: "Redação 11 - A importância da educação financeira para os jovens", descricao: "Exercitando o pensamento crítico", arquivo: "imagens/redacao%2011.jpg", imagem: "imagens/redacao%2011.jpg" },
-    { id: 12, titulo: "Redação 12 - Desafio para a valorização da cultura popular brasileira", descricao: "Preparando-me para o final", arquivo: "imagens/redacao%2012.jpg", imagem: "imagens/redacao%2012.jpg" },
-    { id: 13, titulo: "Redação 13 - Caminhos para a universalização do saneamento básico no Brasil", descricao: "Reunindo conhecimentos adquiridos", arquivo: "imagens/redacao%2013.jpg", imagem: "imagens/redacao%2013.jpg" },
-    { id: 14, titulo: "Redação 14 - O papel do esporte como ferramenta de transformação social", descricao: "Projetando sonhos e planos", arquivo: "imagens/redacao%2014.jpg", imagem: "imagens/redacao%2014.jpg" },
-    { id: 15, titulo: "Redação 15 - Quem sou eu no mundo?", descricao: "Minha última redação do ano", arquivo: "imagens/redacao%2015.jpg", imagem: "imagens/redacao%2015.jpg" }
+    { id: 1, titulo: "Redação 1 - Por que procedimentos estéticos estão aumentando entre os jovens", descricao: "O início da minha jornada na escrita", arquivo: "imagens/redacao1.jpg", imagem: "imagens/redacao1.jpg" },
+    { id: 2, titulo: "Redação 2 - Acessibilidade e inclusão de pessoas com deficiência no Brasil", descricao: "Desenvolvendo o pensamento crítico", arquivo: "imagens/redacao2.jpg", imagem: "imagens/redacao2.jpg" },
+    { id: 3, titulo: "Redação 3 - Principais fatores que influenciam na qualidade de vida e no bem-estar da população", descricao: "Aprendendo a defender minhas ideias", arquivo: "imagens/redacao3.jpg", imagem: "imagens/redacao3.jpg" },
+    { id: 4, titulo: "Redação 4 - As mudanças climáticas no Brasil e seus desafios", descricao: "Ampliando meus horizontes literários", arquivo: "imagens/redacao4.jpg", imagem: "imagens/redacao4.jpg" },
+    { id: 5, titulo: "Redação 5 - As consequências do descarte de lixo eletrônico", descricao: "Descobrindo a força da linguagem", arquivo: "imagens/redacao5.jpg", imagem: "imagens/redacao5.jpg" },
+    { id: 6, titulo: "Redação 6 - O consumo de ultraprocessados e suas consequências para a saúde", descricao: "Reflexões sobre minha evolução", arquivo: "imagens/redacao6.jpg", imagem: "imagens/redacao6.jpg" },
+    { id: 7, titulo: "Redação 7 - Fatores e efeitos da dependência em jogos de aposta", descricao: "Lidando com temas complexos", arquivo: "imagens/redacao7.jpg", imagem: "imagens/redacao7.jpg" },
+    { id: 8, titulo: "Redação 8 - A importância do trabalho voluntário no combate à desigualdade social", descricao: "Relacionando leituras e vivências", arquivo: "imagens/redacao8.jpg", imagem: "imagens/redacao8.jpg" },
+    { id: 9, titulo: "Redação 9 - Adultização Infantil – Consequências da perda irreparável da Infância", descricao: "Desenvolvendo meu estilo único", arquivo: "imagens/redacao9.jpg", imagem: "imagens/redacao9.jpg" },
+    { id: 10, titulo: "Redação 10 - Caminhos para combater o etarismo nas relações sociais", descricao: "Abordando questões existenciais", arquivo: "imagens/redacao10.jpg", imagem: "imagens/redacao10.jpg" },
+    { id: 11, titulo: "Redação 11 - A importância da educação financeira para os jovens", descricao: "Exercitando o pensamento crítico", arquivo: "imagens/redacao11.jpg", imagem: "imagens/redacao11.jpg" },
+    { id: 12, titulo: "Redação 12 - Desafio para a valorização da cultura popular brasileira", descricao: "Preparando-me para o final", arquivo: "imagens/redacao12.jpg", imagem: "imagens/redacao12.jpg" },
+    { id: 13, titulo: "Redação 13 - Caminhos para a universalização do saneamento básico no Brasil", descricao: "Reunindo conhecimentos adquiridos", arquivo: "imagens/redacao13.jpg", imagem: "imagens/redacao13.jpg" },
+    { id: 14, titulo: "Redação 14 - O papel do esporte como ferramenta de transformação social", descricao: "Projetando sonhos e planos", arquivo: "imagens/redacao14.jpg", imagem: "imagens/redacao14.jpg" },
+    { id: 15, titulo: "Redação 15 - Quem sou eu no mundo?", descricao: "Minha última redação do ano", arquivo: "imagens/redacao15.jpg", imagem: "imagens/redacao15.jpg" }
 ];
 
 // Menu Mobile
@@ -32,7 +32,7 @@ document.querySelectorAll('.nav-menu a').forEach(link => {
     });
 });
 
-// Carregar redações - FUNÇÃO ATUALIZADA COM TRATAMENTO DE ERRO
+// Carregar redações
 function carregarRedacoes() {
     const grid = document.getElementById('redacoesGrid');
     
@@ -77,7 +77,7 @@ document.getElementById('search').addEventListener('input', function(e) {
     });
 });
 
-// Rolagem suave - VERSÃO CORRIGIDA
+// Rolagem suave
 function scrollToSection(id) {
     const element = document.getElementById(id);
     if (element) {
