@@ -4,43 +4,43 @@ const redacoes = [
         id: 1, 
         titulo: "Redação 1 - Por que procedimentos estéticos estão aumentando entre os jovens", 
         descricao: "O início da minha jornada na escrita", 
-        arquivo: "file:///C:/Users/Joao/Downloads/1-Por%20que%20procedimentos%20est%C3%A9ticos%20est%C3%A3o%20aumentando%20entre%20os%20jovens.pdf" 
+        arquivo: "file:///C:/Users/Joao/Downloads/1-Por%20que%20procedimentos%20est%C3%A9ticos%20est%C3%A3o%20aumentando%20entre%20os%20jovens_page-0001.jpg" 
     },
     { 
         id: 2, 
         titulo: "Redação 2 - Acessibilidade e inclusão de pessoas com deficiência no Brasil", 
         descricao: "Desenvolvendo o pensamento crítico", 
-        arquivo: "file:///C:/Users/Joao/Downloads/2-%20Acessibilidade%20e%20inclus%C3%A3o%20de%20pessoas%20com%20defici%C3%AAncia%20no%20Brasil%20(1).pdf" 
+        arquivo: "file:///C:/Users/Joao/Downloads/2-%20Acessibilidade%20e%20inclus%C3%A3o%20de%20pessoas%20com%20defici%C3%AAncia%20no%20Brasil%20(1)_page-0001.jpg" 
     },
     { 
         id: 3, 
         titulo: "Redação 3 - Principais fatores que influenciam na qualidade de vida e no bem-estar da população", 
         descricao: "Aprendendo a defender minhas ideias", 
-        arquivo: "file:///C:/Users/Joao/Downloads/3-%20Principais%20fatores%20que%20influenciam%20na%20qualidade%20de%20vida%20e%20no%20bem-estar%20da%20popula%C3%A7%C3%A3o.pdf" 
+        arquivo: "file:///C:/Users/Joao/Downloads/3-%20Principais%20fatores%20que%20influenciam%20na%20qualidade%20de%20vida%20e%20no%20bem-estar%20da%20popula%C3%A7%C3%A3o_page-0001.jpg" 
     },
     { 
         id: 4, 
         titulo: "Redação 4 - As mudanças climáticas no Brasil e seus desafios", 
         descricao: "Ampliando meus horizontes literários", 
-        arquivo: "file:///C:/Users/Joao/Downloads/4-As%20mudan%C3%A7as%20clim%C3%A1ticas%20no%20Brasil%20e%20seus%20desafios.pdf" 
+        arquivo: "file:///C:/Users/Joao/Downloads/4-As%20mudan%C3%A7as%20clim%C3%A1ticas%20no%20Brasil%20e%20seus%20desafios_page-0001%20(1).jpg" 
     },
     { 
         id: 5, 
         titulo: "Redação 5 - As consequências do descarte de lixo eletrônico", 
         descricao: "Descobrindo a força da linguagem", 
-        arquivo: "file:///C:/Users/Joao/Downloads/5-As%20consequ%C3%AAncias%20do%20descarte%20de%20lixo%20eletr%C3%B4nico.pdf" 
+        arquivo: "file:///C:/Users/Joao/Downloads/5-As%20consequências%20do%20descarte%20de%20lixo%20eletrônico_" 
     },
     { 
         id: 6, 
         titulo: "Redação 6 - O consumo de ultraprocessados e suas consequências para a saúde", 
         descricao: "Reflexões sobre minha evolução", 
-        arquivo: "file:///C:/Users/Joao/Downloads/6-%20O%20consumo%20de%20ultraprocessados%20e%20suas%20consequ%C3%AAncias%20para%20a%20sa%C3%BAde.pdf" 
+        arquivo: "file:///C:/Users/Joao/Downloads/6-%20O%20consumo%20de%20ultraprocessados%20e%20suas%20consequ%C3%AAncias%20para%20a%20sa%C3%BAde_page-0001.jpg" 
     },
     { 
         id: 7, 
         titulo: "Redação 7 - Fatores e efeitos da dependência em jogos de aposta", 
         descricao: "Lidando com temas complexos", 
-        arquivo: "file:///C:/Users/Joao/Downloads/7-%20Fatores%20e%20efeitos%20da%20depend%C3%AAncia%20em%20jogos%20de%20aposta.pdf" 
+        arquivo: "file:///C:/Users/Joao/Downloads/7-%20Fatores%20e%20efeitos%20da%20depend%C3%AAncia%20em%20jogos%20de%20aposta_page-0001.jpg" 
     },
     { 
         id: 8, 
@@ -64,31 +64,31 @@ const redacoes = [
         id: 11, 
         titulo: "Redação 11 - A importância da educação financeira para os jovens", 
         descricao: "Exercitando o pensamento crítico", 
-        arquivo: "file:///C:/Users/Joao/Downloads/11-%20A%20import%C3%A2ncia%20da%20educa%C3%A7%C3%A3o%20financeira%20para%20os%20jovens.pdf" 
+        arquivo: "file:///C:/Users/Joao/Downloads/11-%20A%20import%C3%A2ncia%20da%20educa%C3%A7%C3%A3o%20financeira%20para%20os%20jovens_page-0001.jpg" 
     },
     { 
         id: 12, 
         titulo: "Redação 12 - Desafio para a valorização da cultura popular brasileira", 
         descricao: "Preparando-me para o final", 
-        arquivo: "file:///C:/Users/Joao/Downloads/12-%20Desafio%20para%20a%20valoriza%C3%A7%C3%A3o%20da%20cultura%20popular%20brasileira.pdf" 
+        arquivo: "file:///C:/Users/Joao/Downloads/12-%20Desafio%20para%20a%20valoriza%C3%A7%C3%A3o%20da%20cultura%20popular%20brasileira_page-0001.jpg" 
     },
     { 
         id: 13, 
         titulo: "Redação 13 - Caminhos para a universalização do saneamento básico no Brasil", 
         descricao: "Reunindo conhecimentos adquiridos", 
-        arquivo: "file:///C:/Users/Joao/Downloads/13-%20Caminhos%20para%20a%20universaliza%C3%A7%C3%A3o%20do%20saneamento%20b%C3%A1sico%20no%20Brasil.pdf" 
+        arquivo: "file:///C:/Users/Joao/Downloads/13-%20Caminhos%20para%20a%20universaliza%C3%A7%C3%A3o%20do%20saneamento%20b%C3%A1sico%20no%20Brasil_page-0001.jpg" 
     },
     { 
         id: 14, 
         titulo: "Redação 14 - O papel do esporte como ferramenta de transformação social", 
         descricao: "Projetando sonhos e planos", 
-        arquivo: "file:///C:/Users/Joao/Downloads/14-%20O%20papel%20do%20esporte%20como%20ferramenta%20de%20transforma%C3%A7%C3%A3o%20social.pdf" 
+        arquivo: "file:///C:/Users/Joao/Downloads/14-%20O%20papel%20do%20esporte%20como%20ferramenta%20de%20transforma%C3%A7%C3%A3o%20social_page-0001.jpg" 
     },
     { 
         id: 15, 
         titulo: "Redação 15 - Quem sou eu no mundo?", 
         descricao: "Minha última redação do ano", 
-        arquivo: "file:///C:/Users/Joao/Downloads/15-Quem%20sou%20eu%20no%20mundo.pdf" 
+        arquivo: "file:///C:/Users/Joao/Downloads/15-Quem%20sou%20eu%20no%20mundo_page-0001.jpg" 
     }
 ];
 
